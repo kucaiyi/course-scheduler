@@ -1,4 +1,4 @@
-# termly.ca - a UBC course scheduler
+# [termly.ca](http://termly.ca.s3-website-us-west-2.amazonaws.com) - a UBC course scheduler
 
 ## pain relievers
 - the app picks an optimal section from each activity (e.g. labs, tutorials, discussions and lectures) of a course
