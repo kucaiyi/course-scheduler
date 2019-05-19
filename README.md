@@ -22,7 +22,7 @@
 the app uses https://ubc-courses-api.herokuapp.com for fetching subject/course/section data.
 
 
-**many thanks** to [qstevens](@qstevens) for making this api!
+**many thanks** to [@qstevens](https://github.com/qstevens) for making this api!
 
 ## scheduling
 ### preprocessing (optimization)
